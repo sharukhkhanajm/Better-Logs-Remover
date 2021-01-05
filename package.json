@@ -2,6 +2,10 @@
 	"name": "better-logs-remover",
 	"displayName": "Better Logs Remover",
 	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/sharukhkhanajm/Better-Logs-Remover"
+	},
 	"keywords": [
 		"console log",
 		"console log remover",

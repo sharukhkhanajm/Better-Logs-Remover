@@ -21,6 +21,8 @@ to generate HTML. it will simply removes all the echos and prints.
 
 ![image remove-js-logs-gif](images/remove-js-logs.gif)
 
+![image remove-js-logs-gif](images/remove-php-logs.gif)
+
 ## Requirements
 
 you need vscode ;)
