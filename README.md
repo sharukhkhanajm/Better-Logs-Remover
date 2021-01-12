@@ -1,7 +1,9 @@
 # Better Logs Remover
 
-If you like to write a log of Consoles,echos,prints then this extension might be for you.
+If you like to write a lot of Consoles,echos,prints then this extension might be for you.
 It removes all the logs in just one Enter :)
+
+# [Documentation: ](https://github.com/sharukhkhanajm/Better-Logs-Remover)
 
 # Warning
 
