@@ -8,7 +8,7 @@ It removes all the logs in just one Enter :)
 # Warning
 
 Do not use this extension's commands in your php file where you have used echo or print
-to generate HTML. it will simply removes all the echos and prints.
+to generate HTML. it will simply remove all the echos and prints.
 
 ## Features
 
@@ -18,8 +18,8 @@ to generate HTML. it will simply removes all the echos and prints.
 # Steps to remove
 
 - Just open your Command Palette (CTRL+SHIFT+P for Windows, CMD+SHIFT+P for Mac).
-- type `Remove JS Logs` for removing your logs from js file.
-- type `Remove PHP Logs` for removing your logs from php file.
+- type `Remove JS Logs` for removing your logs from JS file.
+- type `Remove PHP Logs` for removing your logs from PHP file.
 
 ![image remove-js-logs-gif](images/remove-js-logs.gif)
 
@@ -34,6 +34,10 @@ you need vscode ;)
 none for now.
 
 ## Release Notes
+
+## [0.1.1]
+
+- Readme updated.
 
 ## [0.1.0]
 
