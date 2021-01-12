@@ -3,7 +3,7 @@
 If you like to write a lot of Consoles,echos,prints then this extension might be for you.
 It removes all the logs in just one Enter :)
 
-# [Documentation: ](https://github.com/sharukhkhanajm/Better-Logs-Remover)
+# [Documentation](https://github.com/sharukhkhanajm/Better-Logs-Remover)
 
 # Warning
 
